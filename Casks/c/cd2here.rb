@@ -1,6 +1,6 @@
 cask "cd2here" do
-  version "0.3.3"
-  sha256 "704852a0f15745c9c3261ecd1c3d77e9a270aca611ac86a2f5f31d7c5700d3ac"
+  version "0.4"
+  sha256 "2e1e14eb095f1c445af735024a063462465b4e594d7f1c95960f3af3ed43673d"
 
   url "https://github.com/ActivationEnergy/cd2here/releases/download/v#{version}/cd2here-v#{version}-darwin-universal.zip"
   name "cd2here"
